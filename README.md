@@ -1,0 +1,1 @@
+Start application with: "npx ts-node src/index.ts"
